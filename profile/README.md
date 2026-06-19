@@ -39,7 +39,7 @@ Our research sits at the intersection of **hypergraph computation**, **multimoda
 <h3>
   <a href="https://github.com/yifanfeng97/hyper-extract">Hyper-Extract</a>
   &nbsp;
-  <a href="https://github.com/yifanfeng97/hyper-extract/stargazers"><img src="https://img.shields.io/github/stars/yifanfeng97/hyper-extract?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b" alt="Stars"></a>
+  <a href="https://github.com/yifanfeng97/hyper-extract/stargazers"><img src="https://img.shields.io/github/stars/yifanfeng97/hyper-extract?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b" alt="Stars"></a>
   <a href="https://pypi.org/project/hyperextract/"><img src="https://img.shields.io/pypi/v/hyperextract?style=flat-square&logo=pypi&logoColor=white&labelColor=0f172a&color=3776ab" alt="PyPI"></a>
   <a href="https://yifanfeng97.github.io/Hyper-Extract/latest/"><img src="https://img.shields.io/badge/docs-online-3b82f6?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0f172a" alt="Docs"></a>
 </h3>
@@ -57,9 +57,9 @@ he parse paper.pdf -t general/academic_graph -o ./paper_kb/
 
 | Project | Description | Stars |
 |---|---|---|
-| [<b>DeepHypergraph</b>](https://github.com/iMoonLab/DeepHypergraph) | A PyTorch library for graph and hypergraph deep learning | [<img src="https://img.shields.io/github/stars/iMoonLab/DeepHypergraph?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DeepHypergraph) |
-| [<b>THU-HyperG</b>](https://github.com/iMoonLab/THU-HyperG) | Hypergraph learning toolbox and benchmarks | [<img src="https://img.shields.io/github/stars/iMoonLab/THU-HyperG?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/THU-HyperG) |
-| [<b>Hypergraph-DB</b>](https://github.com/iMoonLab/Hypergraph-DB) | Hypergraph database with built-in visualization | [<img src="https://img.shields.io/github/stars/iMoonLab/Hypergraph-DB?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hypergraph-DB) |
+| [<b>DeepHypergraph</b>](https://github.com/iMoonLab/DeepHypergraph) | A PyTorch library for graph and hypergraph deep learning | [<img src="https://img.shields.io/github/stars/iMoonLab/DeepHypergraph?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DeepHypergraph) |
+| [<b>THU-HyperG</b>](https://github.com/iMoonLab/THU-HyperG) | Hypergraph learning toolbox and benchmarks | [<img src="https://img.shields.io/github/stars/iMoonLab/THU-HyperG?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/THU-HyperG) |
+| [<b>Hypergraph-DB</b>](https://github.com/iMoonLab/Hypergraph-DB) | Hypergraph database with built-in visualization | [<img src="https://img.shields.io/github/stars/iMoonLab/Hypergraph-DB?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hypergraph-DB) |
 
 ---
 
@@ -67,11 +67,11 @@ he parse paper.pdf -t general/academic_graph -o ./paper_kb/
 
 | Project | Description | Venue | Stars |
 |---|---|---|---|
-| [<b>yolov13</b>](https://github.com/iMoonLab/yolov13) | YOLOv13: real-time detection with hypergraph-enhanced adaptive visual perception | arXiv 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/yolov13?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/yolov13) |
-| [<b>Hyper-YOLO</b>](https://github.com/iMoonLab/Hyper-YOLO) | When visual object detection meets hypergraph computation | IEEE TPAMI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/Hyper-YOLO?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hyper-YOLO) |
-| [<b>MeshNet</b>](https://github.com/iMoonLab/MeshNet) | Mesh neural network for 3D shape representation | AAAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/MeshNet?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/MeshNet) |
-| [<b>HGM2R</b>](https://github.com/iMoonLab/HGM2R) | Hypergraph-based multi-modal representation for open-set 3D object retrieval | IEEE TPAMI 2024 | [<img src="https://img.shields.io/github/stars/iMoonLab/HGM2R?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGM2R) |
-| [<b>PVRNet</b>](https://github.com/iMoonLab/PVRNet) | Point-view relation neural network for 3D shape recognition | AAAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/PVRNet?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/PVRNet) |
+| [<b>yolov13</b>](https://github.com/iMoonLab/yolov13) | YOLOv13: real-time detection with hypergraph-enhanced adaptive visual perception | arXiv 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/yolov13?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/yolov13) |
+| [<b>Hyper-YOLO</b>](https://github.com/iMoonLab/Hyper-YOLO) | When visual object detection meets hypergraph computation | IEEE TPAMI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/Hyper-YOLO?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hyper-YOLO) |
+| [<b>MeshNet</b>](https://github.com/iMoonLab/MeshNet) | Mesh neural network for 3D shape representation | AAAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/MeshNet?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/MeshNet) |
+| [<b>HGM2R</b>](https://github.com/iMoonLab/HGM2R) | Hypergraph-based multi-modal representation for open-set 3D object retrieval | IEEE TPAMI 2024 | [<img src="https://img.shields.io/github/stars/iMoonLab/HGM2R?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGM2R) |
+| [<b>PVRNet</b>](https://github.com/iMoonLab/PVRNet) | Point-view relation neural network for 3D shape recognition | AAAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/PVRNet?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/PVRNet) |
 
 ---
 
@@ -79,12 +79,12 @@ he parse paper.pdf -t general/academic_graph -o ./paper_kb/
 
 | Project | Description | Venue | Stars |
 |---|---|---|---|
-| [<b>HGNN</b>](https://github.com/iMoonLab/HGNN) | Hypergraph Neural Networks — foundational work on hypergraph convolution | AAAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/HGNN?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGNN) |
-| [<b>DHGNN</b>](https://github.com/iMoonLab/DHGNN) | Dynamic Hypergraph Neural Networks for dynamic structure learning | IJCAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/DHGNN?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DHGNN) |
-| [<b>LightHGNN</b>](https://github.com/iMoonLab/LightHGNN) | Distilling hypergraph neural networks into MLPs for 100× faster inference | ICLR 2024 | [<img src="https://img.shields.io/github/stars/iMoonLab/LightHGNN?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/LightHGNN) |
-| [<b>KHGNN</b>](https://github.com/iMoonLab/KHGNN) | Kernel Hypergraph Neural Networks | IEEE TPAMI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/KHGNN?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/KHGNN) |
-| [<b>SS-HT</b>](https://github.com/iMoonLab/SS-HT) | Self-supervised hypergraph training via structure-aware learning | IEEE TPAMI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/SS-HT?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/SS-HT) |
-| [<b>HGNN-Shield</b>](https://github.com/iMoonLab/HGNN-Shield) | Defending hypergraph neural networks against high-order structure attack | IEEE TPAMI | [<img src="https://img.shields.io/github/stars/iMoonLab/HGNN-Shield?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGNN-Shield) |
+| [<b>HGNN</b>](https://github.com/iMoonLab/HGNN) | Hypergraph Neural Networks — foundational work on hypergraph convolution | AAAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/HGNN?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGNN) |
+| [<b>DHGNN</b>](https://github.com/iMoonLab/DHGNN) | Dynamic Hypergraph Neural Networks for dynamic structure learning | IJCAI 2019 | [<img src="https://img.shields.io/github/stars/iMoonLab/DHGNN?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DHGNN) |
+| [<b>LightHGNN</b>](https://github.com/iMoonLab/LightHGNN) | Distilling hypergraph neural networks into MLPs for 100× faster inference | ICLR 2024 | [<img src="https://img.shields.io/github/stars/iMoonLab/LightHGNN?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/LightHGNN) |
+| [<b>KHGNN</b>](https://github.com/iMoonLab/KHGNN) | Kernel Hypergraph Neural Networks | IEEE TPAMI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/KHGNN?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/KHGNN) |
+| [<b>SS-HT</b>](https://github.com/iMoonLab/SS-HT) | Self-supervised hypergraph training via structure-aware learning | IEEE TPAMI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/SS-HT?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/SS-HT) |
+| [<b>HGNN-Shield</b>](https://github.com/iMoonLab/HGNN-Shield) | Defending hypergraph neural networks against high-order structure attack | IEEE TPAMI | [<img src="https://img.shields.io/github/stars/iMoonLab/HGNN-Shield?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGNN-Shield) |
 
 ---
 
@@ -92,9 +92,9 @@ he parse paper.pdf -t general/academic_graph -o ./paper_kb/
 
 | Project | Description | Venue | Stars |
 |---|---|---|---|
-| [<b>Hyper-RAG</b>](https://github.com/iMoonLab/Hyper-RAG) | Combating LLM hallucinations with hypergraph-driven retrieval-augmented generation | *Nature Communications* 2026 | [<img src="https://img.shields.io/github/stars/iMoonLab/Hyper-RAG?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hyper-RAG) |
-| [<b>LLM4Hypergraph</b>](https://github.com/iMoonLab/LLM4Hypergraph) | Can large language models comprehend hypergraphs beyond graphs? | ICLR 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/LLM4Hypergraph?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/LLM4Hypergraph) |
-| [<b>HIC</b>](https://github.com/iMoonLab/HIC) | Hypergraph Isomorphism Computation | IEEE TPAMI 2024 | [<img src="https://img.shields.io/github/stars/iMoonLab/HIC?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HIC) |
+| [<b>Hyper-RAG</b>](https://github.com/iMoonLab/Hyper-RAG) | Combating LLM hallucinations with hypergraph-driven retrieval-augmented generation | *Nature Communications* 2026 | [<img src="https://img.shields.io/github/stars/iMoonLab/Hyper-RAG?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hyper-RAG) |
+| [<b>LLM4Hypergraph</b>](https://github.com/iMoonLab/LLM4Hypergraph) | Can large language models comprehend hypergraphs beyond graphs? | ICLR 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/LLM4Hypergraph?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/LLM4Hypergraph) |
+| [<b>HIC</b>](https://github.com/iMoonLab/HIC) | Hypergraph Isomorphism Computation | IEEE TPAMI 2024 | [<img src="https://img.shields.io/github/stars/iMoonLab/HIC?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HIC) |
 
 ---
 
@@ -102,11 +102,11 @@ he parse paper.pdf -t general/academic_graph -o ./paper_kb/
 
 | Project | Description | Venue | Stars |
 |---|---|---|---|
-| [<b>DHGFormer</b>](https://github.com/iMoonLab/DHGFormer) | Dynamic hierarchical graph transformer for disorder brain disease diagnosis | MICCAI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/DHGFormer?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DHGFormer) |
-| [<b>LHDFormer</b>](https://github.com/iMoonLab/LHDFormer) | Adaptive embedding for long-range high-order dependencies on fMRI | MICCAI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/LHDFormer?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/LHDFormer) |
-| [<b>DIBrain</b>](https://github.com/iMoonLab/DIBrain) | Exploring dynamic interpretable brain networks via hierarchical graph transformer | PR 2026 | [<img src="https://img.shields.io/github/stars/iMoonLab/DIBrain?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DIBrain) |
-| [<b>HGST</b>](https://github.com/iMoonLab/HGST) | Hypergraph-based semantic and topological self-supervised learning for brain disease diagnosis | 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/HGST?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGST) |
-| [<b>PAGHC</b>](https://github.com/iMoonLab/PAGHC) | Multimodal hypergraph guide learning for non-invasive ccRCC survival prediction | 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/PAGHC?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/PAGHC) |
+| [<b>DHGFormer</b>](https://github.com/iMoonLab/DHGFormer) | Dynamic hierarchical graph transformer for disorder brain disease diagnosis | MICCAI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/DHGFormer?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DHGFormer) |
+| [<b>LHDFormer</b>](https://github.com/iMoonLab/LHDFormer) | Adaptive embedding for long-range high-order dependencies on fMRI | MICCAI 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/LHDFormer?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/LHDFormer) |
+| [<b>DIBrain</b>](https://github.com/iMoonLab/DIBrain) | Exploring dynamic interpretable brain networks via hierarchical graph transformer | PR 2026 | [<img src="https://img.shields.io/github/stars/iMoonLab/DIBrain?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/DIBrain) |
+| [<b>HGST</b>](https://github.com/iMoonLab/HGST) | Hypergraph-based semantic and topological self-supervised learning for brain disease diagnosis | 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/HGST?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HGST) |
+| [<b>PAGHC</b>](https://github.com/iMoonLab/PAGHC) | Multimodal hypergraph guide learning for non-invasive ccRCC survival prediction | 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/PAGHC?style=flat-square&logo=github&logoColor=white&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/PAGHC) |
 
 ---
 
