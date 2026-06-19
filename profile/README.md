@@ -7,7 +7,6 @@
 
 [<img src="https://img.shields.io/badge/🌐-moon--lab.tech-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Homepage">](https://moon-lab.tech/)
 [<img src="https://img.shields.io/badge/GitHub-iMoonLab-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub">](https://github.com/iMoonLab)
-[<img src="https://img.shields.io/badge/PaperList-Google%20Scholar-4285f4?style=for-the-badge&labelColor=0f172a" alt="Google Scholar">](https://scholar.google.com/citations?user=iMoonLab)
 
 </div>
 
