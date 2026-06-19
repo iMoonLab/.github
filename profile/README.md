@@ -30,26 +30,28 @@ Our research sits at the intersection of **hypergraph computation**, **multimoda
 
 ## 🔥 Featured
 
-### [Hyper-Extract](https://github.com/yifanfeng97/hyper-extract) · LLM-powered knowledge extraction
+### [Hyper-Extract](https://github.com/yifanfeng97/hyper-extract)
+
+> *One command to turn documents into structured knowledge — lists, Pydantic models, knowledge graphs, hypergraphs, and spatio-temporal graphs.*
 
 <div align="center">
 
 [<img src="https://img.shields.io/github/stars/yifanfeng97/hyper-extract?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=facc15" alt="Stars">](https://github.com/yifanfeng97/hyper-extract/stargazers)
 [<img src="https://img.shields.io/pypi/v/hyperextract?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0f172a&color=3776ab" alt="PyPI">](https://pypi.org/project/hyperextract/)
 [<img src="https://img.shields.io/badge/docs-online-3b82f6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0f172a" alt="Docs">](https://yifanfeng97.github.io/Hyper-Extract/latest/)
-[<img src="https://img.shields.io/badge/license-Apache%202.0-06b6d4?style=for-the-badge&labelColor=0f172a" alt="License">](https://github.com/yifanfeng97/hyper-extract/blob/main/LICENSE)
 
 </div>
-
-One command to turn documents into structured knowledge — lists, Pydantic models, knowledge graphs, hypergraphs, and spatio-temporal graphs.
 
 ```bash
 uv tool install hyperextract
 he parse paper.pdf -t general/academic_graph -o ./paper_kb/
-he show ./paper_kb/
 ```
 
-[<img src="https://trendshift.io/api/badge/repositories/25420" alt="Trendshift" width="220" height="48">](https://trendshift.io/repositories/25420)
+<p align="center">
+  <a href="https://trendshift.io/repositories/25420">
+    <img src="https://trendshift.io/api/badge/repositories/25420" alt="Trendshift" width="180" height="40">
+  </a>
+</p>
 
 ---
 
@@ -92,7 +94,7 @@ he show ./paper_kb/
 
 | Project | Description | Venue | Stars |
 |---|---|---|---|
-| [<b>Hyper-RAG</b>](https://github.com/iMoonLab/Hyper-RAG) | Combating LLM hallucinations with hypergraph-driven retrieval-augmented generation | 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/Hyper-RAG?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hyper-RAG) |
+| [<b>Hyper-RAG</b>](https://github.com/iMoonLab/Hyper-RAG) | Combating LLM hallucinations with hypergraph-driven retrieval-augmented generation | *Nature Communications* 2026 | [<img src="https://img.shields.io/github/stars/iMoonLab/Hyper-RAG?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/Hyper-RAG) |
 | [<b>LLM4Hypergraph</b>](https://github.com/iMoonLab/LLM4Hypergraph) | Can large language models comprehend hypergraphs beyond graphs? | ICLR 2025 | [<img src="https://img.shields.io/github/stars/iMoonLab/LLM4Hypergraph?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/LLM4Hypergraph) |
 | [<b>HIC</b>](https://github.com/iMoonLab/HIC) | Hypergraph Isomorphism Computation | IEEE TPAMI 2024 | [<img src="https://img.shields.io/github/stars/iMoonLab/HIC?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b">](https://github.com/iMoonLab/HIC) |
 
