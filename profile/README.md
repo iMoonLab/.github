@@ -8,6 +8,12 @@
 [<img src="https://img.shields.io/badge/🌐-moon--lab.tech-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Homepage">](https://moon-lab.tech/)
 [<img src="https://img.shields.io/badge/GitHub-iMoonLab-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub">](https://github.com/iMoonLab)
 
+<p>
+  <a href="https://trendshift.io/repositories/25420">
+    <img src="https://trendshift.io/api/badge/repositories/25420" alt="Trendshift" width="180" height="40">
+  </a>
+</p>
+
 </div>
 
 ---
@@ -32,26 +38,20 @@ Our research sits at the intersection of **hypergraph computation**, **multimoda
 
 ### [Hyper-Extract](https://github.com/yifanfeng97/hyper-extract)
 
-> *One command to turn documents into structured knowledge — lists, Pydantic models, knowledge graphs, hypergraphs, and spatio-temporal graphs.*
-
-<div align="center">
-
-[<img src="https://img.shields.io/github/stars/yifanfeng97/hyper-extract?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=facc15" alt="Stars">](https://github.com/yifanfeng97/hyper-extract/stargazers)
-[<img src="https://img.shields.io/pypi/v/hyperextract?style=for-the-badge&logo=pypi&logoColor=white&labelColor=0f172a&color=3776ab" alt="PyPI">](https://pypi.org/project/hyperextract/)
-[<img src="https://img.shields.io/badge/docs-online-3b82f6?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0f172a" alt="Docs">](https://yifanfeng97.github.io/Hyper-Extract/latest/)
-
-</div>
+> *Documents → structured knowledge. One command.*
 
 ```bash
 uv tool install hyperextract
 he parse paper.pdf -t general/academic_graph -o ./paper_kb/
 ```
 
-<p align="center">
-  <a href="https://trendshift.io/repositories/25420">
-    <img src="https://trendshift.io/api/badge/repositories/25420" alt="Trendshift" width="180" height="40">
-  </a>
-</p>
+<div align="center">
+
+[<img src="https://img.shields.io/github/stars/yifanfeng97/hyper-extract?style=flat-square&logo=github&logoColor=white&label=%E2%AD%90&labelColor=0f172a&color=f59e0b" alt="Stars">](https://github.com/yifanfeng97/hyper-extract/stargazers)
+[<img src="https://img.shields.io/pypi/v/hyperextract?style=flat-square&logo=pypi&logoColor=white&labelColor=0f172a&color=3776ab" alt="PyPI">](https://pypi.org/project/hyperextract/)
+[<img src="https://img.shields.io/badge/docs-online-3b82f6?style=flat-square&logo=readthedocs&logoColor=white&labelColor=0f172a" alt="Docs">](https://yifanfeng97.github.io/Hyper-Extract/latest/)
+
+</div>
 
 ---
 
